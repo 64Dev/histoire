@@ -22,6 +22,6 @@
     "histoire": "workspace:*",
     "start-server-and-test": "^1.14.0",
     "svelte-preprocess": "^5.0.4",
-    "vite": "^4.4.8"
+    "vite": "^4.4.12"
   }
 }
